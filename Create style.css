@@ -1,0 +1,29 @@
+body{
+    font-family: Arial;
+    background:#f4f4f4;
+    text-align:center;
+    padding:20px;
+}
+
+h1{
+    color:#333;
+}
+
+input{
+    padding:10px;
+    margin:5px;
+}
+
+button{
+    padding:10px 15px;
+    cursor:pointer;
+}
+
+.book{
+    background:white;
+    width:400px;
+    margin:10px auto;
+    padding:15px;
+    border-radius:8px;
+    box-shadow:0 2px 5px gray;
+}
